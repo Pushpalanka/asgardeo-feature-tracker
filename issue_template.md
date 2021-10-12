@@ -1,18 +1,19 @@
-**Description:**
-<!-- Give a brief description of the issue -->
+**Problem Statement:**
+<!-- Give a brief description of the issue. If it's requirement state it clearly. If a feature description is derived
+ from the requirement please state it, but still mention the requirement as well to *avoid XY problem*.-->
 
-**Suggested Labels:**
-<!-- Optional comma separated list of suggested labels. Non committers can’t assign labels to issues, so this will help issue creators who are not a committer to suggest possible labels-->
+**User Story:**
+<!-- User journey as helpful to validate it.-->
 
-**Suggested Assignees:**
-<!--Optional comma separated list of suggested team members who should attend the issue. Non committers can’t assign issues to assignees, so this will help issue creators who are not a committer to suggest possible assignees-->
+**Source of Initiation:**
+<!-- Provide the references to the feature request. Eg. Forum, support issue, email or where the feature request was
+ raise.-->
 
-**Affected Product Version:**
+**Urgency and Criticality:**
+<!-- Please mention based on your judgement but supported with the facts and reasoning.-->
 
-**OS, DB, other environment details and versions:**    
+**Considered Alternative Solutions:**
+<!-- What are the optional approaches considered? -->
 
-**Steps to reproduce:**
-
-
-**Related Issues:**
-<!-- Any related issues such as sub tasks, issues reported in other repositories (e.g component repositories), similar problems, etc. -->
+**Does Our Competitors Support It:**
+<!-- Partial or complete support provided by the competitors? A summarized view and references expected. --> 
